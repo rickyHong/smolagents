@@ -30,6 +30,9 @@ limitations under the License.
   </div>
 </h3>
 
+✨ computer-agent
+https://huggingface.co/spaces/smolagents/computer-agent/tree/main
+
 `smolagents` is a library that enables you to run powerful agents in a few lines of code. It offers:
 
 ✨ **Simplicity**: the logic for agents fits in ~1,000 lines of code (see [agents.py](https://github.com/huggingface/smolagents/blob/main/src/smolagents/agents.py)). We kept abstractions to their minimal shape above raw code!
